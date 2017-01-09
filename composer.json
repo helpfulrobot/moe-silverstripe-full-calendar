@@ -1,0 +1,30 @@
+{
+  "name": "moe/silverstripe-full-calendar",
+  "description": "Interface with Google Calendar via the Silverstripe CMS",
+  "homepage": "https://github.com/peavers/silverstripe-google-calendar",
+  "keywords": [
+    "silverstripe",
+    "calendar",
+    "google calendar"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Chris Turner",
+      "email": "chris.turner@education.govt.nz"
+    }
+  ],
+  "type": "silverstripe-module",
+  "require": {
+    "moe/color-swab": "@stable",
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://gitlab.cwp.govt.nz/modules/color-swab.git",
+      "private": "true"
+    }
+  ],
+  "minimum-stability": "dev"
+}

@@ -1,0 +1,6 @@
+---
+name: silverstripe-google-calendar
+---
+DateField:
+  default_config:
+    showcalendar: true
