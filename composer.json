@@ -1,5 +1,5 @@
 {
-  "name": "moe/silverstripe-full-calendar",
+  "name": "moe/silverstripe-google-calendar",
   "description": "Interface with Google Calendar via the Silverstripe CMS",
   "homepage": "https://github.com/peavers/silverstripe-google-calendar",
   "keywords": [
